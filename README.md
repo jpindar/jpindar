@@ -4,7 +4,7 @@ well as hands-on experience in electronics manufacturing.
 
 I have a distraction-free remote work environment including a basic electronics lab.
 
-I am currently seeking any remote employment or freelance work.
+I am currently seeking any remote employment or freelance work, not necessarily related to embedded systems.
 
 <!--
 **jpindar/jpindar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
