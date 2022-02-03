@@ -6,6 +6,8 @@ I have a distraction-free remote work environment including a basic electronics 
 
 I am currently seeking remote employment or freelance work, not necessarily related to embedded systems.
 
+https://jpindar.github.io/
+
 <!--
 **jpindar/jpindar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
